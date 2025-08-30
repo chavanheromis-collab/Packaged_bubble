@@ -1,0 +1,9 @@
+{
+  "name": "Packed Bubble Visualization",
+  "id": "viz-packed-bubble",
+  "script": "packed_bubble.js",
+  "resources": [],
+  "description": "Use the Packed Bubble visualization to display data in a cluster of bubbles.",
+  "logoUrl": "https://marketplace-api.looker.com/visualization-screenshots/bubble_icon.png",
+  "category": "Plug-ins"
+}
